@@ -1,5 +1,12 @@
 # @maray29/blog-os-code
 
+## 1.0.2
+
+### Patch Changes
+
+- 1ede81b: Changed package name
+- 5130d7d: Changed package name
+
 ## 1.0.1
 
 ### Patch Changes
