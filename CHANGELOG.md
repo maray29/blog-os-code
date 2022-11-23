@@ -1,5 +1,11 @@
 # @maray29/blog-os-code
 
+## 1.0.3
+
+### Patch Changes
+
+- 3aa9c68: Added header animation code.
+
 ## 1.0.2
 
 ### Patch Changes
