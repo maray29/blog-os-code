@@ -1,5 +1,11 @@
 # @maray29/blog-os-code
 
+## 1.0.5
+
+### Patch Changes
+
+- c40e6c6: Removed unnecessary code
+
 ## 1.0.4
 
 ### Patch Changes
