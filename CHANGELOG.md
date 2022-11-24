@@ -1,5 +1,11 @@
 # @maray29/blog-os-code
 
+## 1.0.4
+
+### Patch Changes
+
+- 0b5cb37: Removed GSAP markers
+
 ## 1.0.3
 
 ### Patch Changes
