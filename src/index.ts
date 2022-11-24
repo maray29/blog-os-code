@@ -153,7 +153,7 @@ window.Webflow.push(() => {
         trigger: headerH1,
         start: 'top 20%',
         end: 'bottom -50%',
-        markers: true,
+        // markers: true,
         scrub: 1,
       },
     });
